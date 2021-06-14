@@ -13,3 +13,7 @@ Here are some good reads, before you get going.
 ## Youtube videos
 
 I have created a series of 4 yooutube videos...
+
+## Instructions
+
+1. Run with dataset.txt initially

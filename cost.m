@@ -1,5 +1,5 @@
-function cost = cost(thetas, x, y)
-    % jø = 1/2m * ∑ (hø(x) - y)ˆ2   
-    hc = x * thetas - y;
-    cost = (hc' * hc) / (2 * length(y));
+function j = cost(thetas, xo, y)
+    hc = xo * thetas - y;
+    m = length(y);
+    j = (hc' * hc) / (2 * m);
 end
