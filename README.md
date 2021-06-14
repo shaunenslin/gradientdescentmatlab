@@ -16,4 +16,5 @@ I have created a series of 4 yooutube videos...
 
 ## Instructions
 
-1. Run with dataset.txt initially
+1. Run with dataset.txt initially with a predition of [6;6;6]
+2. Run with realestat3.txt with a prediction of [2012.667;1.5;23.38284;7;24.96772;121.54102]
