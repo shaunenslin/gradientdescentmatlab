@@ -4,10 +4,10 @@
 
 Here are some good reads, before you get going.
 
+[Read my medium article explaining the code](https://shaun-enslin.medium.com/gradient-descent-in-matlab-octave-954160e2d3fa)
+
 [Site for great datasets](https://lionbridge.ai/datasets/10-open-datasets-for-linear-regression/)
-
 [Matrix arithmetic](http://www.philender.com/courses/multivariate/notes/matoctave.html)
-
 [Great srticle that helped me alot](https://www.codeproject.com/Articles/879043/Implementing-Gradient-Descent-to-Solve-a-Linear-Re)
 
 ## Youtube videos
