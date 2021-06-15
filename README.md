@@ -12,7 +12,8 @@ Here are some good reads, before you get going.
 
 ## Youtube videos
 
-I have created a series of 4 yooutube videos...
+I have created a series on youtube to explain the code:
+https://www.youtube.com/playlist?list=PLOEB0iByIwznDBU8aF9hVXALjwj5Odrnm
 
 ## Instructions
 
